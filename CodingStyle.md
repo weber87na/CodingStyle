@@ -35,6 +35,19 @@ AddValue(int x)
 }
 ```
 
+`Enum` => `UpperCamelCase`
+```
+enum Number
+{
+  One ,
+  Two ,
+}
+```
+
+`Namespace` => `UpperCamelCase` 
+範例 `LaDiSai.Domain` or `LaDiSai.Repositories`
+正常會長這樣 `專案.資料夾.資料夾.資料夾` , 建議讓 visual studio 自己長
+
 ### html css 命名
 這個我多半都 `一律使用小寫` , 並且使用 `kebab-case` , 看到會用大寫的通常都是寫 `.net` 的工程師
 
