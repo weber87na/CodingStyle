@@ -45,7 +45,9 @@ enum Number
 ```
 
 `Namespace` => `UpperCamelCase` 
+
 範例 `LaDiSai.Domain` or `LaDiSai.Repositories`
+
 正常會長這樣 `專案.資料夾.資料夾.資料夾` , 建議讓 visual studio 自己長
 
 ### html css 命名
