@@ -5,7 +5,7 @@
 
 `Pascal Case` 或稱 `Upper Camel Case` 通常指小寫駝峰 , 每個字都大寫開頭 , 通常長這樣 `FirstName` `LastName`
 
-`Underscore Prefix` 通常在 csharp 會看到 , 其他語言好像沒見過? 反正會在 `Camel Case` 的變數前加上底線 , 長這樣 `_age` `_name`
+`Underscore Prefix` 通常在 csharp 會看到 , 其他語言好像沒見過? 反正會在 `Camel Case` 的變數前加上底線 , 長這樣 `_age` `_name` , 用在私有變數
 
 `private field` => `_lowerCamelCase` => 指 `私有變數` or `欄位`
 
