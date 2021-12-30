@@ -7,7 +7,7 @@
 
 `Underscore Prefix` 通常在 csharp 會看到 , 其他語言好像沒見過? 反正會在 `Camel Case` 的變數前加上底線 , 長這樣 `_age` `_name` , 用在私有變數
 
-`private field` => `_lowerCamelCase` => 指 `私有變數` or `欄位`
+`private field` => `_lowerCamelCase` => 指 `私有變數` or `欄位` , 依照微軟官方其實私有變數不加底線 , 可是實際上一堆老外微軟工程師也用這樣命名 , 所以就用這樣吧
 
 `public field` => `UpperCamelCase` => `欄位`
 
