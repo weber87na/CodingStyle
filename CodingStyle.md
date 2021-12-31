@@ -20,6 +20,7 @@
 `Method or Function` => `UpperCamelCase` => 方法 or 函數 (這個在 java , js 裡面是小寫開頭容易搞錯)
 
 `Class` => `UpperCamelCase` => `類別`
+
 `Interface` => `IUpperCamelCase` => `介面`
 
 `Local Variable` => `lowerCamelCase` => 這個通常指在 function 裡面的變數 , 在下面範例裡面的 `y`
