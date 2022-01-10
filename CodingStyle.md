@@ -59,3 +59,6 @@ enum Number
 ### javascript 命名
 主要[參考這篇](https://www.30secondsofcode.org/articles/s/javascript-naming-conventions) 即可
 詳細可以看 [google](https://google.github.io/styleguide/jsguide.html)
+
+### typescript
+請參考[這份](https://github.com/basarat/typescript-book/blob/master/docs/styleguide/styleguide.md#filename)
