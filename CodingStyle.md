@@ -62,3 +62,6 @@ enum Number
 
 ### typescript
 請參考[這份](https://github.com/basarat/typescript-book/blob/master/docs/styleguide/styleguide.md#filename)
+
+### git commit 格式
+請參考[angular](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#-commit-message-format)風格
